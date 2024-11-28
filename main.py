@@ -13,7 +13,7 @@ documents_ext = [".doc", ".docx", ".pdf", ".txt", ".rtf", ".odt", ".odp", ".ods"
 
 music_ext = [".mp3", ".wav", ".wma", ".aac", ".flac", ".alac", ".ogg", ".m4a", ".opus", ".webm", ".mid", ".midi", ".amr", ".aif", ".aiff", ".au", ".raw", ".mka", ".ac3", ".dts", ".ape", ".mac", ".mp2", ".mp1", ".mpa", ".mpc", ".ofr", ".ofs", ".rmi", ".tta", ".wv", ".xm", ".mod", ".s3m", ".it", ".mtm", ".umx"]
 
-programs_ext = [".exe", ".msi", ".dmg", ".pkg", ".deb", ".rpm", ".app", ".bat", ".sh"]
+programs_ext = [".exe", ".msi", ".dmg", ".pkg", ".deb", ".rpm", ".app", ".bat", ".sh", ".AppImage"]
 
 fonts_ext = [".ttf", ".otf", ".woff", ".woff2", ".eot"]
 
